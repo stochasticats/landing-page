@@ -127,3 +127,52 @@
     width: 150px;
 }
 
+.quote-container {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    padding: 80px;
+    gap: 50px;
+}
+
+.quote {
+    font-size: x-large;
+    font-style: italic;
+}
+
+.author {
+    margin-left: 500px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    height: 250px;
+}
+
+.footer {
+    background-color: #3882f6;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 130px;
+    padding-right: 130px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    gap: 50px;
+    border-radius: 8px;
+}
+
+.calltoaction {
+    font-size: large;
+    font-weight: bold;
+}
+
+.button2 {
+    border: 2px solid #E5E7EB;
+}
