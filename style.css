@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 0px;
     box-sizing: border-box;
 }
 
@@ -175,4 +175,13 @@
 
 .button2 {
     border: 2px solid #E5E7EB;
+}
+
+.copyright-container {
+    display: flex;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
 }
